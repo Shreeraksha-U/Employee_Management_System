@@ -1,0 +1,15 @@
+connection.php
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Uploaded user content
+admin/upload/
+employee/upload/
+manager/upload/
+admin/include/img/dp/
+manager/include/img/dp/
+
+# Logs
+*.log
