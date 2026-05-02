@@ -53,11 +53,11 @@ The SQL file includes demo accounts for testing. Change or replace them after im
 - Change all demo passwords.
 - Migrate passwords to `password_hash()` / `password_verify()`.
 - Convert login and update queries to prepared statements.<img width="719" height="427" alt="8" src="https://github.com/user-attachments/assets/d6a2919e-971c-418d-b9b7-243fdcef2f69" />
-<img width="727" height="428" alt="7" src="https://github.com/user-attachments/assets/722a6985-58e0-44c8-b8ba-427c52bc4a4b" />
-<img width="722" height="413" alt="6" src="https://github.com/user-attachments/assets/e3de0f80-b00a-465c-8e6c-50d6fdad7a33" />
-<img width="726" height="433" alt="5" src="https://github.com/user-attachments/assets/d05d4cf5-63df-496c-b91e-fe72d6a510aa" />
-<img width="724" height="415" alt="4" src="https://github.com/user-attachments/assets/dfdeed8c-dc49-4eab-8364-0462187aaf36" />
-<img width="727" height="433" alt="3" src="https://github.com/user-attachments/assets/64db04c1-28b3-4f25-8285-cf262bb652f8" />
-<img width="739" height="435" alt="2" src="https://github.com/user-attachments/assets/91e26cff-f3bd-49e2-8dc3-15400d6f316b" />
 <img width="751" height="448" alt="1" src="https://github.com/user-attachments/assets/9d3c30fd-23d4-4c54-ac57-2bfba0cb2706" />
+<img width="739" height="435" alt="2" src="https://github.com/user-attachments/assets/91e26cff-f3bd-49e2-8dc3-15400d6f316b" />
+<img width="727" height="433" alt="3" src="https://github.com/user-attachments/assets/64db04c1-28b3-4f25-8285-cf262bb652f8" />
+<img width="724" height="415" alt="4" src="https://github.com/user-attachments/assets/dfdeed8c-dc49-4eab-8364-0462187aaf36" />
+<img width="726" height="433" alt="5" src="https://github.com/user-attachments/assets/d05d4cf5-63df-496c-b91e-fe72d6a510aa" />
+<img width="722" height="413" alt="6" src="https://github.com/user-attachments/assets/e3de0f80-b00a-465c-8e6c-50d6fdad7a33" />
+<img width="727" height="428" alt="7" src="https://github.com/user-attachments/assets/722a6985-58e0-44c8-b8ba-427c52bc4a4b" />
 
